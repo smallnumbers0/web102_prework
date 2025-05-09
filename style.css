@@ -73,3 +73,15 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+.game-card {
+   display: flex;
+   flex-direction: column;
+}
